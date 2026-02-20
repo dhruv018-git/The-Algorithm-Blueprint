@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
