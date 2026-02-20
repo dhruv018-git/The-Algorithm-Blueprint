@@ -12,14 +12,14 @@
  */
 var deleteDuplicates = function(head) {
 
-    let current = head;
+    let curr = head;
 
-    while (current !== null && current.next !== null) {
-        if (current.val === current.next.val) {
-            // skip duplicate
-            current.next = current.next.next;
+    while (curr && curr.next) {
+        if (curr.val === curr.next.val) {
+            // duplicate mila → next skip karo
+            curr.next = curr.next.next;
         } else {
-            current = current.next;
+            curr = curr.next;
         }
     }
 
