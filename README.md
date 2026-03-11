@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0091-decode-ways) |
+| [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
