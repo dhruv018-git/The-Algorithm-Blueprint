@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0091-decode-ways) |
+| [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0196-delete-duplicate-emails) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
