@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,15 +78,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
