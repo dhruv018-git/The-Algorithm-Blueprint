@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
