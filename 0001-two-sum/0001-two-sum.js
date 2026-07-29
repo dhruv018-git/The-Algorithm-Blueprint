@@ -5,13 +5,23 @@
  */
 var twoSum = function(nums, target) {
     let n = nums.length
-    let ans =[]
-    for(let i = 0;i<n;i++){
-        for(let j=i+1;j<n;j++){
-            
-            if(nums[i]+nums[j]==target){
-                ans.push(i,j)
-            }
-        }
-    }return ans
+   let numswithindex = nums.map((val,idx)=>[val,idx]);
+   numswithindex.sort((a,b)=>a[0]-b[0])
+   let left=0;
+   let right=n-1
+   
+   while(left<right){
+    let sum = numswithindex[left][0]+numswithindex[right][0];
+    if(sum==target){
+        return [numswithindex[left][1],numswithindex[right][1]]
+    }else if(sum<target){
+        left++
+    }else{
+        right--
+    }
+
+    
+    
+    
+   }
 };
