@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
