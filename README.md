@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
