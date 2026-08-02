@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
+| [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
