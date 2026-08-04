@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0202-happy-number) |
+| [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
