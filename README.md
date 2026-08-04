@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
