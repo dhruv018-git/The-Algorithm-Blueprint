@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
