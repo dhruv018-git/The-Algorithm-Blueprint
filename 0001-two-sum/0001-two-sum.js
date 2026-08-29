@@ -4,24 +4,27 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let n = nums.length
-   let numswithindex = nums.map((val,idx)=>[val,idx]);
-   numswithindex.sort((a,b)=>a[0]-b[0])
-   let left=0;
-   let right=n-1
-   
-   while(left<right){
-    let sum = numswithindex[left][0]+numswithindex[right][0];
-    if(sum==target){
-        return [numswithindex[left][1],numswithindex[right][1]]
-    }else if(sum<target){
-        left++
-    }else{
-        right--
-    }
+   let n = nums.length;
 
+   let NumWithIndex = nums.map((val,idx)=>[val,idx])
+   NumWithIndex.sort((a,b)=>a[0]-b[0])
+   let l = 0;
+   let r = n-1;
     
+while(l<r){
+    let CurSum = NumWithIndex[l][0]+NumWithIndex[r][0];
+    if(CurSum==target){
+      return [NumWithIndex[l][1],NumWithIndex[r][1]];
+
+    }
+    else if(CurSum>target){
+        r--
+    }
+    else {
+        l++
+    }
     
+}
     
-   }
+   
 };
