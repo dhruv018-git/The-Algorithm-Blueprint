@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
