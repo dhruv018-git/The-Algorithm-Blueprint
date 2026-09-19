@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0202-happy-number) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0136-single-number) |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
