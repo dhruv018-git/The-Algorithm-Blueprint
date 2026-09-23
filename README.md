@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1929-concatenation-of-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
