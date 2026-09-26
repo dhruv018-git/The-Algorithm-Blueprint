@@ -4,17 +4,29 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    let s = new Set()
-    let ans = new Set();
-    for(let i =0;i<nums1.length;i++){
-        s.add(nums1[i]);
-    }
+    let i = 0; let j = 0;
+    let ans = [];
+    nums1.sort((a,b)=>a-b);
+    nums2.sort((a,b)=>a-b);
+   while (i < nums1.length && j < nums2.length){
+     
+     if(nums1[i]<nums2[j]){
+        i++;
+     }
+     else if(nums1[i]>nums2[j]){
+        j++
+     }
+     else{
+      ans.push(nums1[i])
+       i++;
+       j++;
 
-    for(let j = 0;j<nums2.length;j++){
-        if(s.has(nums2[j])){
-            ans.add(nums2[j])
-        }
-    }
-    return [...ans]
+     while(i < nums1.length && nums1[i] == nums1[i-1]) i++;
+     while(j < nums2.length && nums2[j] == nums2[j-1]) j++;
+     }
+     
 
+
+   }
+   return ans;
 };
