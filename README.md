@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0094-binary-tree-inorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
