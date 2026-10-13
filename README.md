@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/1672-richest-customer-wealth) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/3731-find-missing-elements) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dhruv018-git/The-Algorithm-Blueprint/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bracket Sequences
 |  |
 | ------- |
